@@ -1,6 +1,3 @@
-# Made by AjaxFNC
-# If you are ironweb10, FUCK OFF
-
 import customtkinter
 import json
 import os
